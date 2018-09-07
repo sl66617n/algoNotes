@@ -1,2 +1,1 @@
-# algoNotes
-# algoNotes
+# algorithm class notes
